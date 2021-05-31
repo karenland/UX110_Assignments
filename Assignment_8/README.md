@@ -9,5 +9,3 @@ Currently. Aging America has actually been struggling with literacy rates. They 
 
 An app that not only entices avid book readers but also casual readers is very important to combat these issues since a user-friendly app that makes reading fun allows for the elderly not to only engage with others and bring a new level of enjoyment towards a valuable hobby but it also helps the elderly better their technological literacy. So for my project I hope I can give them an enjoyable app experience that can be paired with their reading journey.
 
-
-
